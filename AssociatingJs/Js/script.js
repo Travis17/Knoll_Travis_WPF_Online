@@ -1,6 +1,7 @@
-//Defining variables 
 
-var age;
-age = 34;
 
-var yearOfBirth = 1980
+var age = 38;
+
+var isStudent = false;
+
+var firstName = "Travis";
