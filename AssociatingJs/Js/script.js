@@ -1,1 +1,6 @@
-alert("This is in the js file");
+//Defining variables 
+
+var age;
+age = 34;
+
+var yearOfBirth = 1980
