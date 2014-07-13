@@ -1,7 +1,5 @@
+//Arrarys
 
+var muppetNames = ["Kermit", "Miss Piggy", "Gonzo", "Rixxo"];
 
-var age = 38;
-
-var isStudent = false;
-
-var firstName = "Travis";
+console.log(muppetNames[2]);
