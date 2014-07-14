@@ -1,6 +1,7 @@
-//Expressions
+//Expressions - PEMDAS - The Order of operations.
 
-var width = 4;
-var height = 5;
-var area = width * height/2;
-console.log(area);
+var firstName = "Kermit";
+var lastName = "The Frog";
+var fullName = firstName + lastName;
+
+console.log(fullname);
