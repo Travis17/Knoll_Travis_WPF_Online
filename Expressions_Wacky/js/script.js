@@ -4,7 +4,7 @@
 //Code to see how many hours a person spends in the bathroom in a year.
 
 //What is the persons name?
-var name = prompt("What is you name friend?");
+var name = prompt("What is your name friend?");
 console.log(name);
 
 //alert username and say hi. Ask if they want to see how much time they spend in the bathroom in a year.
@@ -23,3 +23,19 @@ console.log(bathroomDay * bathroomTime);
 
 //create a variable for how many days in a year.
 var daysYear = 365;
+
+//alert for how many minutes a person will spend in the bathroom in a year.
+alert("My friend you will spend "+bathroomDay * bathroomTime * daysYear+" Minutes... On the throne in a given year!");
+console.log("My friend you will spend "+bathroomDay * bathroomTime * daysYear+" On the throne in a given year!");
+
+
+
+
+
+
+
+
+
+
+
+
