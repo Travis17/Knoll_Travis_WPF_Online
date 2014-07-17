@@ -19,6 +19,8 @@ var milesDay = 50;
 alert("You will drive "+daysWorked * milesDay+" miles this month. Now lets see for the year");
 console.log("You will drive "+daysWorked * milesDay+" miles this month. Now lets see for the year");
 
-
+//alert you will drive this number of miles in a year.
+alert("My friend you will drive "+daysWorked * milesDay * 12+" miles this year for lyft. Please buckle up!");
+console.log("My friend you will drive "+daysWorked * milesDay * 12+" miles this year for lyft. Please buckle up!");
 
 
