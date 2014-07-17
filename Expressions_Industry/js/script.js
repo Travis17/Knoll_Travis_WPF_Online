@@ -24,9 +24,12 @@ alert("My friend you will drive "+daysWorked * milesDay * 12+" miles this year f
 console.log("My friend you will drive "+daysWorked * milesDay * 12+" miles this year for lyft. Please buckle up!");
 
 //alert for how many years the driver has been driving for lyft.
-var years = prompt("Hello "+name+" How many years have you been driving for Lyft?");
-console.log("Hello "+name+" How many years have you been driving for Lyft?");
+var years = prompt("Now "+name+" How many years have you been driving for Lyft?");
+console.log("Now "+name+" How many years have you been driving for Lyft?");
 
+//calculate number years time one year total.
+alert("My friend you have driven "+daysWorked * milesDay * 12 * years+" miles for your driving career so far. Thanks");
+console.log("My friend you have driven "+daysWorked * milesDay * 12 * years+" miles for your driving career so far. Thanks");
 
 
 
