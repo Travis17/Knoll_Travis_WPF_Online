@@ -15,6 +15,10 @@ console.log(daysWorked);
 //create variable how many miles does the driver drive in a year?
 var milesDay = 50;
 
+//calculate how many miles this will be for the month.
+alert("You will drive "+daysWorked * milesDay+" miles this month. Now lets see for the year");
+console.log("You will drive "+daysWorked * milesDay+" miles this month. Now lets see for the year");
+
 
 
 
