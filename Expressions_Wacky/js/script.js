@@ -18,5 +18,8 @@ console.log(bathroomDay);
 var bathroomTime = 5;
 
 //alert for how much time the said person spends in the bathroom in a day.
-alert("Hello "+name+". Your daily bathroom time will equal "+bathroomDay * bathroomTime+" Now lets take a look at your year?");
+alert("Hello "+name+". Your daily bathroom time will equal "+bathroomDay * bathroomTime+" Minutes... Now lets take a look at your year?");
 console.log(bathroomDay * bathroomTime);
+
+//create a variable for how many days in a year.
+var daysYear = 365;
