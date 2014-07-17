@@ -21,8 +21,14 @@ var stepsMile = 2500;
 alert("Wowzas you walk "+stepsMile * milesDay+" Steps daily. Now lets see for the year!");
 console.log(stepsMile * milesDay);
 
-//create a varuable to see how many steps a person walks in a year.
-var daysYear = 365
+//create a variable to see how many steps a person walks in a year.
+var daysYear = 365;
+
+//calculate how many steps a person will take in a year.
+alert(daysYear * stepsMile * milesDay);
+console.log(daysYear * stepsMile * milesDay);
+
+
 
 
 
