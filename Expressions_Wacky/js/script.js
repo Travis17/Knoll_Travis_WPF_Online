@@ -13,3 +13,10 @@ alert("Hi "+name+". Would you like to see how much time you spend in the bathroo
 //How many times do you go to the bathroom on any given day?
 var bathroomDay = prompt("On average how many times do you go to the bathroom daily?");
 console.log(bathroomDay);
+
+//create variable for bathroom time.
+var bathroomTime = 5;
+
+//alert for how much time the said person spends in the bathroom in a day.
+alert("Hello "+name+". Your daily bathroom time will equal "+bathroomDay * bathroomTime+" Now lets take a look at your year?");
+console.log(bathroomDay * bathroomTime);
