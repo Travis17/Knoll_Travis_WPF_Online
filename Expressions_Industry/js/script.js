@@ -31,6 +31,6 @@ console.log("Now "+name+" How many years have you been driving for Lyft?");
 alert("My friend you have driven "+daysWorked * milesDay * 12 * years+" miles for your driving career so far. Thanks");
 console.log("My friend you have driven "+daysWorked * milesDay * 12 * years+" miles for your driving career so far. Thanks");
 
-
+//End of assignment_Industry
 
 
