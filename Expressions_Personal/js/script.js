@@ -25,9 +25,10 @@ console.log(stepsMile * milesDay);
 var daysYear = 365;
 
 //calculate how many steps a person will take in a year.
-alert(daysYear * stepsMile * milesDay);
+alert("You will walk "+daysYear * stepsMile * milesDay+" This year! Might want to buy some new shoes.");
 console.log(daysYear * stepsMile * milesDay);
 
+//End of personal assignment
 
 
 
