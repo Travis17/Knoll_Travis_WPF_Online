@@ -28,8 +28,14 @@ var daysYear = 365;
 alert("My friend you will spend "+bathroomDay * bathroomTime * daysYear+" Minutes... On the throne in a given year!");
 console.log("My friend you will spend "+bathroomDay * bathroomTime * daysYear+" On the throne in a given year!");
 
+//create a variable to equal total hours.
+var hoursSpent = 60;
 
+//alert how many hour the said person will spend in the bathroom in one given year.
+alert("This means the you will spend about "+bathroomDay * bathroomTime * daysYear / hoursSpent+" hours on the throne! Please make sure to wash your hands!");
+console.log("This means the you will spend about "+bathroomDay * bathroomTime * daysYear / hoursSpent+" hours on the throne! Please make sure to wash your hands!");
 
+//End of assignment Expressions_Wacky.
 
 
 
