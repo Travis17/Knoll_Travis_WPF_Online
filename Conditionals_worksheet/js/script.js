@@ -2,17 +2,23 @@
 //Date 21 July 2014
 
 
-//If the temp is more than 75 we will go to the beach. If not we will got o the movies.
-var userInput = prompt("What is your current body weight?");
-console.log(userInput);
+//Gas efficiency of the users car.
+var userMiles = prompt("How many miles per gallon does you car get?");
+console.log(userMiles);
+
+//What is the percentage of gas left?
+var gasTank = prompt("What percentage is left in you tank?");
+console.log(gasTank);
+
+var gasCapacity = prompt("How many gallons are in your gas tank?")
 
 //create a variable for the current temp.
-var heavyWeight = 250;
+var milesNeeded = 200;
 
-if(userInput < heavyWeight){
-	alert("You Need to gain some weight");
-	console.log("You need to gain some weight");
+if(gasCapacity * gasTank * userMiles < milesNeeded){
+	alert("You Need to grab some gas");
+	console.log("You need to grab some gas");
 }else{
-	alert("You qualify for the heavy weight division");
-	console.log("You qualify for the heavy weight division");
+	alert("You can make it without stoping");
+	console.log("You can make it without stoping");
 }
