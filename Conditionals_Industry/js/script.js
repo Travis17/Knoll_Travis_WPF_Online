@@ -9,3 +9,8 @@ console.log(userInfo);
 //What is your monthly income.
 var userIncome = prompt("What is you monthly income?");
 console.log(userIncome);
+
+//Create a variable for value of the phone.
+var phone = 300;
+
+//Create a conditional for the person to know which operating system to buy.
