@@ -14,3 +14,7 @@ console.log(userIncome);
 var phone = 300;
 
 //Create a conditional for the person to know which operating system to buy.
+if(phone >= userInfo){
+	alert("You can buy the iPhone or OS system");
+	console.log("You can buy the iPhone or OS system");
+}
