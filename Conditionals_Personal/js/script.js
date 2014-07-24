@@ -9,4 +9,7 @@
 var milesBike = prompt("How many miles did you ride you bike today?");
 console.log(milesBike);
 
+//alert to say thanks one more question.
+alert("Thanks we have one more question...");
+
 //Prompt given for how many miles in a week
