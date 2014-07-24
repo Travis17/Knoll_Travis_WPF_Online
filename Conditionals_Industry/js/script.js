@@ -23,6 +23,8 @@ if(phone > userInfo){
 	alert("You can buy the Andriod system Galaxy Note III");
 	console.log("You can buy the Andriod system Galaxy Note III")
 }else{
-	//Whever is left.
+	//Whoever is left.
 	console.log("You need to get another job so you can get a better phone!");
 }
+
+//End of assignment
