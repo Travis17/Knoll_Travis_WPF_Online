@@ -19,7 +19,10 @@ console.log("How many miles did you ride your bike this week?")
 //Create variable for miles in a week needed to eat the steak.
 var milesNeeded = 20;
 
+
+
 //Use conditional to find out what to eat.
+
 if(milesBike + weeklyMiles > milesNeeded){
 	alert("You should relax and eat a big steak today!");
 	console.log("You should relax and eat a big steak today!");
@@ -27,6 +30,7 @@ if(milesBike + weeklyMiles > milesNeeded){
 	alert("You need to eat a salad today lazy bones");
 	console.log("You need to eat a salad today lazy bones");
 }
+
 
 
 
