@@ -15,3 +15,6 @@ console.log(userIncome);
 
 //Create a variable for value of the phone.
 var phone = 300;
+
+//Operator
+(phone > userInfo) ? console.log("You can buy the iPhone") : console.log("You can buy the Andriod Galaxy Note III");
