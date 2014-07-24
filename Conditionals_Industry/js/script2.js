@@ -18,3 +18,6 @@ var phone = 300;
 
 //Operator
 (phone > userInfo) ? console.log("You can buy the iPhone") : console.log("You can buy the Andriod Galaxy Note III");
+
+
+//End of assignment for Ternary operator.
