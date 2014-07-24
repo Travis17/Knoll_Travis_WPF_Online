@@ -13,3 +13,5 @@ console.log(milesBike);
 alert("Thanks we have one more question...");
 
 //Prompt given for how many miles in a week
+var weeklyMiles = prompt("How many miles did you ride your bike this week?");
+console.log("How many miles did you ride your bike this week?")
