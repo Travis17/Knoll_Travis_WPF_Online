@@ -28,4 +28,6 @@ if(personAge < youngAge){
 }else{
 	alert("You can watch PG-13 or an R rated movie.")
 	console.log("You can watch PG-13 or an R rated movie.");
+
+	//End of assignment.
 }
