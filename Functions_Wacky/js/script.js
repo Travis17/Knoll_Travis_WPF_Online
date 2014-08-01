@@ -17,3 +17,8 @@ var logsDay = 5;
 var width = 5;
 var height = 7;
 
+//create an activation for the function to work.
+var woodChuck = calculatewoodChuck(userInfo, logsDay, width, height);
+
+
+
