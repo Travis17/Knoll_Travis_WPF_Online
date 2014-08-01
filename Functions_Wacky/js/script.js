@@ -10,8 +10,10 @@ console.log("Hi, lets find out how much wood a woodchuck can chuck if a woodchuc
 var userInfo = prompt("How many woodchucks are in your area?");
 console.log(userInfo);
 
-//create a variable for the number logs a woodchuck can chuck in a day/
+//create a variable for the number logs a woodchuck can chuck in a day.
 var logsDay = 5;
 
-
+//create a variable for area in which the said woodchuck can cover in a day.
+var width = 5;
+var height = 7;
 
