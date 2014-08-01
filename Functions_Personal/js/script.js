@@ -12,8 +12,19 @@ console.log(userInfo);
 var cupsDay = prompt("Hi " +userInfo+ " How many cups of coffee do you drink in a day?");
 console.log(cupsDay);
 
+//alert to see the calculate for how many they will drink in a year.
+alert("Thank for the information lets see how many you will drink in a year?");
+
 //create a variable for number of days in a year.
 var daysYear = 365;
 
 //create an activate for the function to calculate.
 var cupsYear = calculatecupsYear(cupsDay,daysYear);
+console.log(cupsYear);
+alert(cupsYear);
+
+//create the function for cups of coffee daily times cups a year.
+function calculatecupsYear(c,d){
+	return c * d;
+}
+
