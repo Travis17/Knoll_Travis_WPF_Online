@@ -30,3 +30,5 @@ if(megaPixels > 350){
 	console.log("Perhaps it is time for an upgrade!");
 	alert("Perhaps it is time for an upgrade!");
 }
+
+//End of assignment Function_Industry.
