@@ -22,11 +22,16 @@ alert(woodChuck);
 function calculatewoodChuck(u,l){
 	return u * l;
 }
-
+/*
 //create an else if.
 if(woodChuck > logsDay){
-	console.log("This is how much wood your wood chuck chucked today.");
+	console.log("This is how much wood your woodchuck chucked today.");
 }else if(userInfo < 1){
 	console.log("There is no wood chucks chucking any wood in your area");
 }
  //end of assignment
+ */
+
+
+//create a ternany operator to answer the woodchuck.
+(woodChuck > logsDay) ? console.log("This is how much woodchuck chucked today.") : console.log("There is no woodchucks is your area.");
