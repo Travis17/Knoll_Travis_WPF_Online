@@ -2,8 +2,11 @@
 //Date 1 Aug 2014
 //Assignment Function_Industry
 
+//create a prompt to say hi and ask the user their name.
+var hiUser = prompt("What is your name, and then let see the status of your smart phone?")
+
 //create a problem. What is a person megapixels for their smart phone given their height and width.
-var userHeight = prompt("What is the height of your smart phone, in inches?");
+var userHeight = prompt("Thanks "+hiUser+" what is the height of your smart phone, in inches?");
 console.log(userHeight);
 
 //create a variable for the user width of the phone.
@@ -21,7 +24,9 @@ function calculatemegaPixels(u,u){
 
 //create an if statement to let them know what they have.
 if(megaPixels > 350){
-	console.log("You must have a new phone");
+	console.log("You must have a new phone!");
+	alert("You must have a new phone!");
 }else{
-	console.log("Perhaps it is time for an upgrade!")
+	console.log("Perhaps it is time for an upgrade!");
+	alert("Perhaps it is time for an upgrade!");
 }
