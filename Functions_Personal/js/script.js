@@ -28,3 +28,15 @@ function calculatecupsYear(c,d){
 	return c * d;
 }
 
+//create an if else statement to let the person know to brush their teeth or grab a piece of gum.
+if(cupsYear > daysYear){
+	console.log("You should remember to brush your teeth");
+	alert("You should remember to brush your teeth!")
+}else{
+	console.log("You should be good with a fresh piece of gum!");
+	alert("You should be fine with a piece of gum!")
+}
+
+
+
+
