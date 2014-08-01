@@ -13,3 +13,8 @@ console.log(userWidth);
 //activate the function.
 var megaPixels = calculatemegaPixels(userHeight,userWidth);
 console.log(megaPixels);
+
+//create a function to calculate the persons megaPixels.
+function calculatemegaPixels(u,u){
+	return u * u;
+}
