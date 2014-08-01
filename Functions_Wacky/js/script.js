@@ -29,3 +29,4 @@ if(woodChuck > logsDay){
 }else if(userInfo < 1){
 	console.log("There is no wood chucks chucking any wood in your area");
 }
+ //end of assignment
