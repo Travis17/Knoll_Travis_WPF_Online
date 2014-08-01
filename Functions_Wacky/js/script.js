@@ -35,3 +35,5 @@ if(woodChuck > logsDay){
 
 //create a ternany operator to answer the woodchuck.
 (woodChuck > logsDay) ? console.log("This is how much woodchuck chucked today.") : console.log("There is no woodchucks is your area.");
+
+//End of assignment
