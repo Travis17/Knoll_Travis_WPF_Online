@@ -13,12 +13,12 @@ console.log(userInfo);
 //create a variable for the number logs a woodchuck can chuck in a day.
 var logsDay = 5;
 
-//create a variable for area in which the said woodchuck can cover in a day.
-var width = 5;
-var height = 7;
-
 //create an activation for the function to work.
-var woodChuck = calculatewoodChuck(userInfo, logsDay, width, height);
+var woodChuck = calculatewoodChuck(userInfo,logsDay);
+console.log(woodChuck);
+alert(woodChuck);
 
-
-
+//create a function.
+function calculatewoodChuck(u,l){
+	return u * l;
+}
