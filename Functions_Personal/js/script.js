@@ -8,3 +8,7 @@ var userInfo = prompt("What is you name?");
 console.log(userInfo);
 
 
+//prompt to ask how many cups a person drinks in a day?
+var cupsDay = prompt("Hi " +userInfo+ " How many cups of coffee do you drink in a day?");
+console.log(cupsDay);
+
