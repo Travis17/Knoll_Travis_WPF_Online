@@ -16,4 +16,4 @@ console.log(cupsDay);
 var daysYear = 365;
 
 //create an activate for the function to calculate.
-var 
+var cupsYear = calculatecupsYear(cupsDay,daysYear);
