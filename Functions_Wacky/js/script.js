@@ -22,3 +22,10 @@ alert(woodChuck);
 function calculatewoodChuck(u,l){
 	return u * l;
 }
+
+//create an else if.
+if(woodChuck > logsDay){
+	console.log("This is how much wood your wood chuck chucked today.");
+}else if(userInfo < 1){
+	console.log("There is no wood chucks chucking any wood in your area");
+}
